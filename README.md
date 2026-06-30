@@ -5,6 +5,7 @@ for FiveM, with one clean export API. No ESX, QBCore, QBox, or ox_lib required.
 Drop it in, call it from any script, get a `true`/`false` back.
 
 # [Preview](https://eye-minigames.vercel.app/) 
+# [Discord ](https://discord.gg/BN34qUeKwY)
 ---
 
 ## The games (70 total)
