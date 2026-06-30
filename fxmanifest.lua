@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Aria'
+author 'Ay-eye'
 description 'Ay-eye Minigames — a standalone, framework-agnostic pack of 70 cinematic skill-check minigames with a clean export API'
 version '2.3.0'
 
