@@ -1,11 +1,10 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Aria'
+author 'Ay-eye'
+contact 'invalid0190'
 description 'Ay-eye Minigames — a standalone, framework-agnostic pack of 70 cinematic skill-check minigames with a clean export API'
 version '2.3.0'
-
-lua54 'yes'
 
 shared_script 'config.lua'
 
@@ -95,4 +94,10 @@ files {
     'html/games/counterfeit.js',
     'html/games/chopshop.js',
     'html/boot.js'
+}
+lua54 'yes'
+
+escrow_ignore {
+    '**/*.lua',
+    '*.lua'
 }
